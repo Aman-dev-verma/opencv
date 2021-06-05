@@ -1,1 +1,6 @@
-# opencv
+📌 Create image by yourself Using Python Code
+
+📌 Take 2 image, crop some part of both image and swap it.
+
+
+📌 Take 2 image and combine it to form a single image. For example collage
